@@ -1,0 +1,30 @@
+_repo: Journalism-for-Women-A-Practical-Guide_8405
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Women journalists'
+tableOfContents: The secret significance of journalism -- Imperfections of the existing
+  woman-journalist -- The roads towards journalism -- The aspirant -- Style -- The
+  outside contributor -- The search for copy -- The art of corresponding with an editor
+  -- Notes on the leading types of papers -- "Woman's sphere" in journalism -- Conclusion.
+title: 'Journalism for Women: A Practical Guide'
+url: http://www.gutenberg.org/ebooks/8405
